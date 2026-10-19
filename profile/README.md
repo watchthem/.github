@@ -6,6 +6,7 @@ from a comfortable chair.
 **[Watch them play →](https://watchthem.github.io/)**
 
 [Tetris](https://watchthem.github.io/tetris/) ·
+[Asteroids](https://watchthem.github.io/asteroids/) ·
 [2048](https://watchthem.github.io/game2048/) ·
 [Klondike](https://watchthem.github.io/klondike/) ·
 [Spider](https://watchthem.github.io/spider/) ·
